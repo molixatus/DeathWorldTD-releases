@@ -4,6 +4,9 @@
 
 Land beside the Nexus, strip the planet for ore, and build a factory that feeds your guns. Every ninety seconds the swarm comes for the Nexus, and each wave is bigger than the last. Build fast, defend smart, and hold out as long as you can, alone or with friends.
 
+<img width="1600" height="900" alt="archive" src="https://github.com/user-attachments/assets/77b305af-9488-4057-8c42-d801b1ea7620" />
+
+
 ## Download
 
 **[Download the latest version](https://github.com/molixatus/DeathWorldTD-releases/releases/latest)**: grab `DeathWorldTD.exe` and run it. There's no installer, and the game updates itself when you start it.
@@ -14,6 +17,9 @@ Land beside the Nexus, strip the planet for ore, and build a factory that feeds 
 **Requirements:** Windows 10 or 11 (64-bit) and a graphics card with OpenGL 3.3, which almost any GPU from the last decade has.
 
 ## Features
+
+<img width="1600" height="900" alt="research" src="https://github.com/user-attachments/assets/0f1ce6f7-8728-4686-b4b3-fcbf9b1f968f" />
+
 
 - **Build a factory:** mine ore, smelt plates, run belts, inserters, assemblers, pipes and oil refineries, all in the spirit of Factorio.
 - **Defend the Nexus:** gun, shotgun, flamethrower, cannon, rocket, mortar, sniper, tesla, laser and railgun turrets, plus walls, shredder walls, land mines, nukes and orbital strikes.
@@ -32,6 +38,9 @@ Land beside the Nexus, strip the planet for ore, and build a factory that feeds 
 If friends can't see your game, forward **TCP port 27015** on your router, or join over a LAN or VPN such as Tailscale or ZeroTier.
 
 ## Controls
+
+<img width="1600" height="900" alt="tesla" src="https://github.com/user-attachments/assets/f912dee6-ec03-4732-b645-5a59440495d7" />
+
 
 | Key | Action |
 |---|---|
